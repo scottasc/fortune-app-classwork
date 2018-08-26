@@ -1,0 +1,1 @@
+json.message @final_picked_numbers
